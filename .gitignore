@@ -1,0 +1,187 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+Thumbs.db
+
+# Android Studio generated files and folders
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Profiler and other Studio-generated files
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+bin/
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+.classpath
+.c9/
+*.launch
+.settings/
+
+# The old build system
+eclipse/
+ant/
+bin/
+libs/
+local.properties
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.#*
+*.patch
+
+# Realm files
+*.realm
+*.realm.lock
+*.realm.management
+
+# Room
+db/*.db
+
+# NDK
+obj/
+
+# CMake
+cmake_build/
+
+# Kotlin extension
+.kotlin/
+
+# Emulator
+AVD/
+
+# Node JS
+node_modules/
+
+# NPM
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Keystore
+*.jks
+*.keystore
+keystore.properties
+
+# Secrets
+secrets/
+.secrets/
+secrets.properties
+
+# CI/CD
+.circleci/config.yml.local
+.github/workflows/*.local.yml
+
+# IDE plugins
+.idea/plugins/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/
+
+# Platform-specific files
+.vscode/
+*.code-workspace
+
+# Firebase
+google-services.json
+google-services.json.bak
+
+# AWS
+aws/
+
+# GCP
+gcp/
+
+# Azure
+azure/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+docker/
+
+# Terraform
+terraform/
+
+# Kubernetes
+k8s/
+
+# Testing
+.coverage/
+htmlcov/
+pytest_cache/
+.pytest_cache/
+
+# Lint reports
+lint-results/
+lint-results.html
+
+# API keys and tokens
+*.key
+*.pem
+*.pfx
+.api_key
+.token
+token.txt
+api_key.txt
